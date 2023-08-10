@@ -1,4 +1,10 @@
 # **Football Players Tracking on a pitch using YOLOv5 + ByteTrack**
+
+ ![Static Badge](https://img.shields.io/badge/YOLOv5-yellow)![Static Badge](https://img.shields.io/badge/Roboflow-purple)![Static Badge](https://img.shields.io/badge/Pytorch-green)![Static Badge](https://img.shields.io/badge/Bytetrack-red)
+
+
+
+
 ## A YOLOv5-based object detection model that identifies and tracks the players, the ball, the sideline referees and the goalkeeper separately when provided with a TV broadcast camera feed. Bytetrack is further used to enhance the model's capabilities! ⚽
 
 ## About
