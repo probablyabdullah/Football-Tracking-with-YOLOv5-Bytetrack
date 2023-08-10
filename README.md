@@ -12,14 +12,14 @@ In my project, I utilized Roboflow Universe, an open-source computer vision data
 
 ## Steps Involved:
 
-* Setup<br>🛠️
-* Download data<br>🛠️
-* Install YOLOv5<br>🛠️
-* Install ByteTrack and other libs<br>🛠️
-* Custom annotator<br>🛠️
-* Detect ball possession<br>🛠️
-* Full video tracking<br>🛠️
-* Put everything together<br>🛠️
+* Setup🛠️<br>
+* Download data🛠️<br>
+* Install YOLOv5🛠️<br>
+* Install ByteTrack and other libs🛠️<br>
+* Custom annotator🛠️<br>
+* Detect ball possession🛠️<br>
+* Full video tracking🛠️<br>
+* Put everything together🛠️<br>
 
 ## Output!⚽
 
